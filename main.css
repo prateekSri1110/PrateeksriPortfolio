@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.abs {
+    background-image: url(bground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    width: 93rem;
+    height: 49.35rem;
+}
+
+.inside {
+    display: flex;
+    margin-top: 12.1rem;
+    margin-left: 20.5rem;
+    margin-bottom: 2.3rem;
+    /* background-color: yellow; */
+}
+
+.name {
+    /* background-color: turquoise; */
+    font-size: 1.4rem;
+    font-family: monospace;
+    word-spacing: 0.5rem;
+    letter-spacing: 0.3rem;
+    margin-right: 5rem;
+}
+
+.profile {
+    /* background-color: tomato; */
+    margin-top: 2rem;
+    /* margin-left: 730px; */
+    width: 20rem;
+    height: 20rem;
+}
